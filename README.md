@@ -6,16 +6,16 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🌎 Recife - PE, Brasil
-- <img src="https://avatars0.githubusercontent.com/u/7859691?s=200&v=4" width="25" style="vertical-align:middle"> Engenheiro de Testes @ CESAR
-- 🧬 Agile Tester
-- 🎓 Redes de Computadores | Ciência da Computação
-- 🕵️‍♂️ Especialista em Testes de Software | Testes Ágeis
-- 🤓 Entusiasta em Metodologias Ágeis, DevOps e Cyber Security
-- 🤩 Superentusiasta em todas as subáreas de Testes de Software
-- 🧪 Sempre buscando aprender algo novo ou reaprender
-- 🧠 Exercitando minha criatividade e o pensamento crítico continuamente
-- 🚀 Amo ajudar times e a comunidade compartilhando conhecimento sobre qualidade e testes. Acredito que essa seja a melhor maneira de aprender!
+- 🌎 Recife - PE, Brasil;
+- <img src="https://avatars0.githubusercontent.com/u/7859691?s=200&v=4" width="25" style="vertical-align:middle"> Engenheiro de Testes @ CESAR;
+- 🧬 Agile Tester;
+- 🎓 Redes de Computadores | Ciência da Computação;
+- 🕵️‍♂️ Especialista em Testes de Software | Testes Ágeis;
+- 🤓 Entusiasta em Metodologias Ágeis, DevOps e Cyber Security;
+- 🤩 Superentusiasta em todas as áreas de Testes de Software;
+- 🧪 Sempre buscando aprender algo novo ou reaprender;
+- 🧠 Exercitando minha criatividade e o pensamento crítico continuamente;
+- 🚀 Amo ajudar times e a comunidade compartilhando conhecimento sobre qualidade e testes. Acredito que essa seja a melhor maneira de aprender!;
 - ☕️ Não podia faltar esse... Amo café!
 
 <h3> 🛠 A fazer...</h3>
