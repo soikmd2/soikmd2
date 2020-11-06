@@ -7,10 +7,11 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 - 🌎 Recife - PE, Brasil;
-- <img src="https://avatars0.githubusercontent.com/u/7859691?s=200&v=4" width="25" style="vertical-align:middle"> Engenheiro de Testes @ CESAR;
+- <img src="https://avatars0.githubusercontent.com/u/7859691?s=200&v=4" width="25" style="vertical-align:middle"> Engenheiro de Testes @ [CESAR](https://www.cesar.org.br/);
 - 🧬 Agile Tester;
 - 🎓 Redes de Computadores | Ciência da Computação;
 - 🕵️‍♂️ Especialista em Testes de Software | Testes Ágeis;
+- 💜 [Aluno TSPI](https://tspi.juliodelima.com.br) 🧡 [Aluno DTAR](https://descomplicando.juliodelima.com.br);
 - 🤓 Entusiasta em Metodologias Ágeis, DevOps e Cyber Security;
 - 🤩 Superentusiasta em todas as áreas de Testes de Software;
 - 🧪 Sempre buscando aprender algo novo ou reaprender;
