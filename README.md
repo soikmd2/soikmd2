@@ -1,17 +1,19 @@
 <img align="right" alt="ilustração de um programador numa cadeira e trabalhando em 2 monitores" src="/assets/img/station.gif" width="380"/>
+
 <h2><img src="/assets/img/hi.gif" width="25"> E aew, seja bem-vindo(a) ao meu GitHub profile!</h2>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/soikmd2?style=social)](https://twitter.com/soikmd2) [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlonalmeida/)](https://www.linkedin.com/in/marlonalmeida/) [![Facebook Badge](https://img.shields.io/badge/-My&nbsp;page-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/marlonalmeida.qa)](https://www.facebook.com/marlonalmeida.qa) ![Profile views](https://komarev.com/ghpvc/?username=soikmd2&style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/soikmd2?style=social)](https://twitter.com/soikmd2) [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marlonalmeida/)](https://www.linkedin.com/in/marlonalmeida/) ![Profile views](https://komarev.com/ghpvc/?username=soikmd2&style=flat-square)
 
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
+<h3> 👨🏻‍💻 Sobre mim / [About me](/ABOUTME.md)</h3>
 
 - 🌎 Recife - PE, Brasil;
-- <img src="https://avatars0.githubusercontent.com/u/7859691?s=200&v=4" width="25" style="vertical-align:middle"> Engenheiro de Testes @ [CESAR](https://www.cesar.org.br/);
+- <img src="https://avatars0.githubusercontent.com/u/7859691?s=200&v=4" width="25" style="vertical-align:middle"> Sr QA Manager @ [CESAR](https://www.cesar.org.br/);
 - 🧬 Agile Tester;
+- 🔎 Rapid Software Tester (RST Student);
 - 🎓 Redes de Computadores | Ciência da Computação;
 - 🕵️‍♂️ Especialista em Testes de Software | Testes Ágeis;
-- 💜 [Aluno TSPI](https://tspi.juliodelima.com.br) 🧡 [Aluno DTAR](https://descomplicando.juliodelima.com.br);
+- 💜 Aluno TSPI 🧡 Aluno DTAR –  (https://descomplicando.juliodelima.com.br);
 - 🤓 Entusiasta em Metodologias Ágeis, DevOps e Cyber Security;
 - 🤩 Superentusiasta em todas as áreas de Testes de Software;
 - 🧪 Sempre buscando aprender algo novo ou reaprender;
@@ -21,7 +23,6 @@
 
 <h3> 🛠 A fazer...</h3>
 
-- Criar a versão deste perfil em inglês 🇬🇧🇺🇸;
 - Criar lista com os artigos que escrevi;
 - Criar lista com ferramentas, linguagens de programação, abordagens e boas práticas adotadas, usadas no dia a dia ou que tive algum contato relevante;
 - Criar lista com minha participação em eventos;
